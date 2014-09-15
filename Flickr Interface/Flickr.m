@@ -9,7 +9,10 @@
 #import "Flickr.h"
 #import "FlickrPhoto.h"
 
-#define kFlickrAPIKey @"558e99dcc20c1d0123addb5d709ae4f0"
+// get new api key here from bottom of screen:
+// https://www.flickr.com/services/api/explore/flickr.photos.search
+
+#define kFlickrAPIKey @"8ab0d5308fdaf7239e25106d98cd0b21"
 
 @implementation Flickr
 
